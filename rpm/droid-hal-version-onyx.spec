@@ -6,6 +6,7 @@
 %define vendor_pretty OnePlus
 %define device_pretty X
 # See ../droid-hal-version/droid-hal-device.inc
-%define have_vibrator 1
+# %define have_vibrator 0
+%define have_ffmemless 1
 %define have_led 1
 %include droid-hal-version/droid-hal-version.inc
