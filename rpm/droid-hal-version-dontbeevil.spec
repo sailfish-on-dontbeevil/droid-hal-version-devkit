@@ -4,7 +4,7 @@
 %define rpm_vendor pine64
 # Manufacturer and device name to be shown in UI
 %define vendor_pretty Pine64
-%define device_pretty DontBeEvil
+%define device_pretty Pinephone
 # See ../droid-hal-version/droid-hal-device.inc
 # %define have_vibrator 0
 %define have_ffmemless 1
