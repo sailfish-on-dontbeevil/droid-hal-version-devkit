@@ -9,4 +9,5 @@
 # %define have_vibrator 0
 %define have_ffmemless 1
 %define have_led 1
+%define native_build 1
 %include droid-hal-version/droid-hal-version.inc
