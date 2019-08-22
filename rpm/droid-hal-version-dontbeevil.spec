@@ -6,7 +6,6 @@
 %define vendor_pretty Pine64
 %define device_pretty Pinephone
 # See ../droid-hal-version/droid-hal-device.inc
-%define have_vibrator 0
 %define have_ffmemless 1
 %define have_led 1
 %define native_build 1
