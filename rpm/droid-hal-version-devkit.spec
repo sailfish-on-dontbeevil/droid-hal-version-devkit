@@ -1,10 +1,10 @@
 # rpm_device is the name of the ported device
-%define rpm_device dontbeevil
+%define rpm_device devkit
 # rpm_vendor is used in the rpm space
 %define rpm_vendor pine64
 # Manufacturer and device name to be shown in UI
 %define vendor_pretty Pine64
-%define device_pretty Pinephone
+%define device_pretty PinePhone
 # See ../droid-hal-version/droid-hal-device.inc
 %define have_ffmemless 1
 %define have_led 1
